@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox"
+}
