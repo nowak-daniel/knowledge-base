@@ -1,8 +1,5 @@
 ---
 tags:
-  - knowledge-base
-  - kb
-  - cheatsheet
   - cli
   - tree
   - file

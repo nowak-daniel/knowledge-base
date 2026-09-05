@@ -1,10 +1,11 @@
 ---
 tags:
-  - knowledge-base
-  - kb
-  - cheatsheet
   - readme
   - obsidian
+  - cli
+  - inbox
+  - systems
+  - template
 datum: 2026-07-19
 ---
 # CLI

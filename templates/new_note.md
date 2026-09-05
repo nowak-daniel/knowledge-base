@@ -1,8 +1,5 @@
 ---
 tags:
-  - knowledge-base
-  - kb
-  - cheatsheet
 datum: <% tp.date.now("YYYY-MM-DD") %>
 ---
 <%

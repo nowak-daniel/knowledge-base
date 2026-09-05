@@ -1,8 +1,5 @@
 ---
 tags:
-  - knowledge-base
-  - kb
-  - cheatsheet
   - cron
   - job-scheduling
   - job
