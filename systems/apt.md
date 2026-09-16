@@ -6,7 +6,7 @@ tags:
   - log
 datum: 2026-07-30
 ---
-Mit dem Befehl [[CLI/apt|apt]] können die Pakete auf einem Debian System geupdatet werden.
+Mit dem Befehl [[cli/apt|apt]] können die Pakete auf einem Debian System geupdatet werden.
 
 # history.log
 
