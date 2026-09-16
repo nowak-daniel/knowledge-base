@@ -1,6 +1,8 @@
 ---
 tags:
   - cli
+  - COMMAND
+  - cli/COMMAND
 datum: <% tp.date.now("YYYY-MM-DD") %>
 ---
 > MAN PAGE NAME
@@ -8,5 +10,7 @@ datum: <% tp.date.now("YYYY-MM-DD") %>
 # TODO
 
 - [ ] Title ändern: Name des CLI Befehls
-- [ ] tags hinzufügen: Name des CLI Befehls, Konzept, Funktion, ...
+- [ ] tags hinzufügen: 
+	- [ ] COMMAND ersetzen
+	- [ ] cli/COMMAND ersetzen
 - [ ] Name aus `man $BEFEHL` in der ersten Zeile eintragen

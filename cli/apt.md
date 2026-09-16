@@ -2,6 +2,7 @@
 tags:
   - cli
   - apt
+  - cli/apt
   - update
   - upgrade
   - full-upgrade

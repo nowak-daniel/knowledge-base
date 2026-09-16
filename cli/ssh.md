@@ -2,6 +2,7 @@
 tags:
   - cli
   - ssh
+  - cli/ssh
   - flags
 datum: 2026-09-05
 ---

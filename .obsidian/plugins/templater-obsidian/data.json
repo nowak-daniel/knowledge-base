@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "CLI",
+      "folder": "cli",
       "template": "templates/new_cli_note.md"
     },
     {

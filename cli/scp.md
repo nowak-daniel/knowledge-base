@@ -2,6 +2,7 @@
 tags:
   - cli
   - scp
+  - cli/scp
 datum: 2026-09-05
 ---
 > scp – OpenSSH secure file copy

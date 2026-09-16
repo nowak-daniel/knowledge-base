@@ -2,6 +2,7 @@
 tags:
   - cli
   - tree
+  - cli/tree
   - list
   - file
   - directory

@@ -2,6 +2,7 @@
 tags:
   - cli
   - man
+  - cli/man
   - manual
   - handbuch
   - documentation

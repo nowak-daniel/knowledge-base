@@ -1,8 +1,10 @@
 ---
 tags:
   - cli
-  - tree
+  - find
+  - cli/find
   - file
+  - directory
   - walk
   - hierarchy
 datum: 2026-07-19

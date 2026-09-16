@@ -2,6 +2,7 @@
 tags:
   - cli
   - crontab
+  - cli/crontab
   - cron
   - job-scheduling
   - job
